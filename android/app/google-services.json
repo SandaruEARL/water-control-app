@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "710271534804",
+    "project_id": "aqua-ecd44",
+    "storage_bucket": "aqua-ecd44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710271534804:android:d1637923e6e8a79fcedd41",
+        "android_client_info": {
+          "package_name": "com.example.aqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710271534804-iukvbhgv1e4i4p6mvcaorss1nutek7kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aqua",
+            "certificate_hash": "0b59c8f8c5fed6ae76176238c842d80983740e09"
+          }
+        },
+        {
+          "client_id": "710271534804-2fup7v5aqsid0bi8qtf36oq0cir3re8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCenL3vQJ_f1eATm83v3ieWk-_EsHPsIw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710271534804-2fup7v5aqsid0bi8qtf36oq0cir3re8r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710271534804-ft3sg1u3ism86nird203102uqdn0c1pk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aqua"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
